@@ -1,10 +1,10 @@
 def square_array(array)
   # your code here
-  =begin
+=begin
   array.each do |num|
     num ** 2
   end
-  =end
+=end
 
   array.each{num| num ** 2}
 end
