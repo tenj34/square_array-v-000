@@ -5,4 +5,6 @@ def square_array(array)
     num ** 2
   end
   =end
+
+  array.each{num| num ** 2}
 end
